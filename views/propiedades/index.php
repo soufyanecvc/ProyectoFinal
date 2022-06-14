@@ -1,6 +1,6 @@
 
 <main class="contenedor seccion">
-    <h1>Administrador de Bienes Raices</h1>
+    <h1>Administrador de CasaBarata</h1>
     <?php 
         $mensaje = mostrarNotificacion( intval( $resultado) );
         if($mensaje) { ?>
